@@ -1,8 +1,8 @@
 # Digital-literacy-project
-Name: Ridhima Dube
-Reg No: 25BCE11313 
-Branch: B.Tech in Computer Science  
-Year: 1st Year  
+-Name: Ridhima Dube
+-Reg No: 25BCE11313 
+-Branch: B.Tech in Computer Science  
+-Year: 1st Year  
 
 
 ## Project Overview
